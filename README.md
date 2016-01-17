@@ -3,7 +3,7 @@ List of js_of_ocaml libraries
 
 - [JQuery](https://jquery.com/)
 	Jquery provides some objects and methods to improve the DOM manipulation and
-	event handling. You can more easily manage the DOM and events.
+	event handling.
 
 	* Binding: [ocaml-jquery](https://github.com/kitec/ocaml-jquery) (more
 	  up to date, forked from https://github.com/gabriel-cardoso/ocaml-jquery)
