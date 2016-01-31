@@ -15,3 +15,15 @@ List of js_of_ocaml libraries
 	Nodejs has lots of module which give you the possibility to run, for
 	example, an http server.
 	* Binding: [ocaml-nodejs](https://github.com/fxfactorial/ocaml-nodejs)
+
+- [D3](https://d3js.org/)
+	D3.js is a JavaScript library for manipulating documents based on data. D3
+	helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web
+	standards gives you the full capabilities of modern browsers without tying
+	yourself to a proprietary framework, combining powerful visualization
+	components and a data-driven approach to DOM manipulation.
+	* Binding: [ocaml-d3](https://github.com/seliopou/ocaml-d3) (can be
+	  installed with opam install d3)
+
+- [extjs](https://www.sencha.com/products/extjs/#overview)
+	* Binding: [ocaml-extjs](https://github.com/astrada/ocaml-extjs)
