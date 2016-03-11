@@ -27,3 +27,11 @@ List of js_of_ocaml libraries
 
 - [extjs](https://www.sencha.com/products/extjs/#overview)
 	* Binding: [ocaml-extjs](https://github.com/astrada/ocaml-extjs)
+
+## Mobile development
+
+- [Cordova plugins](https://cordova.apache.org/)
+	Cordova allows you to develop hybrid mobile applications using web
+	technologies. Through plugins, you can access to devices features.
+	* [Bindings to cordova
+	  plugins](https://github.com/dannywillems/ocaml-cordova-plugin-list)
