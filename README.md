@@ -1,6 +1,8 @@
 List of js_of_ocaml libraries
 =============================
 
+**This repository moved to [ocaml for web programming](https://github.com/dannywillems/ocaml-for-web-programming) repository**
+
 - Standard library
 	Binding to the javascript standard library
 	* [ocaml-js-stdlib](https://github.com/dannywillems/ocaml-js-stdlib) with
